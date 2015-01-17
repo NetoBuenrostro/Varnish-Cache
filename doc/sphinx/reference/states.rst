@@ -31,10 +31,10 @@ views.
 Client Side
 -----------
 
-.. image:: ../../graphviz/cache_req_fsm.svg
+.. graphviz:: ../../graphviz/cache_req_fsm.dot
 
 ------------
 Backend Side
 ------------
 
-.. image:: ../../graphviz/cache_fetch.svg
+.. graphviz:: ../../graphviz/cache_fetch.dot
